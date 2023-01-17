@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.txt
+*/puzzle_input.txt
+*.exe
+*Thonny/*
+*TestSpace*
+*.json
